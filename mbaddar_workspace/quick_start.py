@@ -7,7 +7,7 @@ from langchain.chains import LLMChain
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger()
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "..."
     # Longchain is a good LLM-interface
     # https://towardsdatascience.com/the-easiest-way-to-interact-with-language-models-4da158cfb5c5#:~:text=With%20the%20same%20interface%2C%20you,%2C%20and%20self%2Dhosted%20Models.
     # Model providers (open-source and commercial)

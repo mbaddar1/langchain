@@ -5,7 +5,7 @@ import os
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.document_loaders import TextLoader
 if __name__ == '__main__':
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "..."
     ##
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger()
