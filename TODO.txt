@@ -9,6 +9,11 @@
 
 ===
 # Backlog
+- customer service data
+https://opendata.stackexchange.com/questions/20326/dataset-that-contains-customer-support-interaction
+https://github.com/bitext/customer-support-intent-detection-training-dataset
+https://kili-technology.com/data-labeling/machine-learning/24-best-machine-learning-datasets-for-chatbot-training
+
 - https://python.langchain.com/en/latest/modules/indexes/getting_started.html
 - Test longchain with other open-source model providers
 - Use-case over English Customer-Sercice data
